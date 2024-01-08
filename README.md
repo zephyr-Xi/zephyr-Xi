@@ -1,4 +1,3 @@
-```markdown
 ### Hello everyone, I'm zephyrXi, a person who loves building things👨‍💻, solving problems, and singing and playing the piano.
 
 ### 👋 Greetings
@@ -19,4 +18,3 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-```
