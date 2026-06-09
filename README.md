@@ -1,4 +1,4 @@
-### Hello everyone, I'm zephyrXi, a person who loves building things👨‍💻, solving problems, and singing and playing the piano.
+### Hello everyone, I'm Eric Y.XiXi, a person who loves building things👨‍💻, solving problems, and singing and playing the piano.
 
 ### 👋 Greetings
 
